@@ -67,6 +67,9 @@ remove all the container
 3.  ssh root@localhost -p 2222
 4.  docker kill <container-id>
 5.  docker rm <container-id>
+  
+
+
 ### Managing your containers
 1.  ```docker ps``` shows the currently running container
 2.  ```docker ps -a```  which show all the container including the container stopped
