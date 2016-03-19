@@ -79,3 +79,4 @@ remove all the container
 9.  ```docker rm <container-id>``` which removes the exicited container
 10.  ```docker -aq | xargs docker rm -f``` removes the running container
 
+
